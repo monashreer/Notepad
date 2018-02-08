@@ -1,0 +1,12 @@
+<resources>
+    <string name="action_sortDate">Sort by date</string>
+    <string name="action_sortName">Sort by name</string>
+    <string name="app_name">NotepadApp</string>
+    <string name="delete_note_confirmation">Are you sure if you want to delete this note?</string>
+    <string name="note_null_update_toast">No changes. Note is unaltered</string>
+    <string name="note_saved">Note is saved</string>
+    <string name="note_update_without_title">Can\'t update the note without title. Please enter the title</string>
+    <string name="note_updated_toast">Note is updated</string>
+    <string name="save_note_confirmation">Do you want to save this note as a text file?</string>
+    <string name="save_note_without_title">Can\'t save a note without title. Please enter the title</string>
+</resources>
